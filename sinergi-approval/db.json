@@ -1,0 +1,19 @@
+{
+  "posts": Array[3][
+    {
+      "id": 1,
+      "username": "saka",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "username": "ambar",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "username": "tuti",
+      "password": "12345"
+    }
+  ]
+}
